@@ -9,7 +9,11 @@ public class MCQ {
           new questionConstructor(QuC.q2, QuC.choice2, "c"),
           new questionConstructor(QuC.q3, QuC.choice3, "a"),
           new questionConstructor(QuC.q4, QuC.choice4, "d"),
-          new questionConstructor(QuC.q5, QuC.choice5, "c")
+          new questionConstructor(QuC.q5, QuC.choice5, "c"),
+          new questionConstructor(QuC.q6, QuC.choice6, "b"),
+          new questionConstructor(QuC.q7, QuC.choice7, "c"),
+          new questionConstructor(QuC.q8, QuC.choice8,"d" ),
+          new questionConstructor(QuC.q9, QuC.choice9, "a")
         };
         doTest(questions);
     }
@@ -42,7 +46,7 @@ public class MCQ {
                 score++;
             }
         }
-        if(score >= 4){
+        if(score >= 6){
             System.out.println("Thank you " +tstName + " for taking the test, and Congratulations you have PASSED the test with a score of " +score+ " out of 15");
         }else {
             System.out.println("Thank you " +tstName + " for taking the test, but unfortunately you have FAILED the test with a score of " +score+ " out of 15, better luck next time!");
