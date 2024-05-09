@@ -30,15 +30,16 @@ public class MCQ {
         String tstName;
 
         System.out.println("============================================");
-        System.out.println("|                                            |");
-        System.out.println("|          PHILIPPINE HISTORY TEST           |");
-        System.out.println("|                                            |");
+        System.out.println("|                                           |");
+        System.out.println("|          PHILIPPINE HISTORY TEST          |");
+        System.out.println("|                                           |");
         System.out.println("============================================");
 
         Scanner usrInput = new Scanner(System.in);
 
         System.out.println("Please Answer the Test with small letters only, if you've answered a Big letter, the test will consider it a mistake");
-        System.out.println(" ");
+        System.out.println("Press Enter to Continue..........");
+        usrInput.nextLine();
 
         do {
             System.out.print("Please Enter your Name: ");

@@ -1,3 +1,4 @@
+//Makes a special class for questionnaire data to be stored on
 public class questionConstructor {
     String question;
     String choices;
