@@ -8,6 +8,12 @@ public class questionsUndChoices {
     public String q7 = "Who was the 7th President of the Philippines";
     public String q8 = "Who was the Young General known as 'Goyo?'";
     public String q9 = "How many years was the Philippines colonized by Spain?";
+    public String q10 = "What is the Name of the Society that Andres Bonifacio Made to fight against Spain?";
+    public String q11 = "What was the Name of the Treaty that the Spanish and Americans signed to hand over the Philippine?";
+    public String q12 = "Who were the People that were part of the GomBurZa";
+    public String q13 = "How do you describe the attitude of General Antonio Luna?";
+    public String q14 ="Who was the last General-Governor of the Philippines during the Spanish Rule";
+    public String q15 = "What treaty or act that gave the Philippines a semi-autonomous status from the United States?";
 
 
 
@@ -29,4 +35,10 @@ public class questionsUndChoices {
     public String choice7 = "(a) Fidel V. Ramos (b) Carlos P. Garcia (c) Ramon Magsaysay (d) Corazon Aquino";
     public String choice8 = "(a) Emilio Aguinaldo (b) Andres Bonifacio (c) Gregorio Del Pilar (d) Antonio Luna";
     public String choice9 = "(a) 333 years (b) 19 years (c) 101 years (d) 21 years";
+    public String choice10 = "(a) Assosacion National (b) La Solidaridad (c) KALIBAPI (d) Katipunan";
+    public String choice11 = "(a) Treaty of Brest-Litovsk (b) Treaty of Paris (c) Treaty of Ownership (d) Treaty of Versailles";
+    public String choice12 = "(a) Jose Rizal, Emilio Aguinaldo, Andres Bonifacio \n(b) Marceelo H. Del Pilar, Manuel L. Quezon, Jose Vargas, \n(c) Mariano Lopez, Graciano Lopez Jaena, Emilop Zamora \n(d) Mariano Gomez, Jose Burgos, Jacinto Zamora";
+    public String choice13 = "(a) Creative and Peaceful (b) Daring and Cruel (c) Benevolent and Compassionate (d) Maintainable and Accountable";
+    public String choice14 = "(a) Phillip II (b) Diego de los Rios y Nicolau (c) Fidel Castro (d) Francisco Rizzo";
+    public String choice15 = "(a) Tydings-McDuffe Act (b) Autonomy Act (c) Hare-Hawes-Cutting Act (d) Luce-Celler Act";
 }
